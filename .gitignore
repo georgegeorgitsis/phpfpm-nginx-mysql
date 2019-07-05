@@ -1,0 +1,17 @@
+# Global
+.*.swp
+.DS_Store
+.idea
+.env
+
+# PHPStorm
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/dictionaries
+
+# SSL Certs
+etc/ssl/
+
+nginx/logs/*
+nginx/sites/default.conf
+mysql/data/*
